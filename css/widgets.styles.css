@@ -1,0 +1,25 @@
+/************** A C C O R D I O N S **************/
+.contenedorAcordeon{
+	height:350px;
+	border: thin solid orange;
+}
+
+/*** Todos los widgets accordion ***/
+.widgetAccordion{
+	/*ajustes de tema para los acordeones*/
+}
+
+.XXX{
+	background-color: silver;
+	height: 35px;
+}
+
+
+/************** P A N E L S **************/
+
+/*** Todos los widgets panel ***/
+
+.panel{
+	padding-right: 0;
+	padding-left: 0;
+}

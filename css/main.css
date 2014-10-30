@@ -1,0 +1,14 @@
+/*Eliminar el borde naranja en google chrome*/
+*:focus {
+	outline: none;
+}
+
+body{
+	margin-top: -60px;
+}
+
+/**************************************************************************/
+.contenido{
+	background: #ecf0f1;
+	xpadding: 15px;
+}

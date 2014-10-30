@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tra",
+				"trainOperational"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"heigh",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"utf-8\">\n<title>Título</title>\n<!-- *************************** B A S I C S *************************** -->\n	<meta charset=\"utf-8\">\n	<meta name=\"author\" content=\"JLRZ\">\n	<meta name=\"description\" content=\"Plantilla para sistema asíncrono\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n\n<!-- *************************** C S S *************************** -->\n	<!-- Bootstrap -->\n	<link rel=\"stylesheet\" href=\"bootstrap/css/bootstrap.min.css\">\n	<!-- Bottom fixed footer bar -->\n	<link rel=\"stylesheet\" href=\"css/sticky-footer-navbar.css\">\n\n	<!-- Estilos jQuery UI -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.min.css\">\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.structure.min.css\">\n	<!-- Estilos del Tema -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.min.css\">\n\n	<!-- Estilos de Widgets -->\n	<link rel=\"stylesheet\" href=\"css/widgets.styles.css\">\n\n	<!-- Estilos Generales -->\n	<link rel=\"stylesheet\" href=\"css/main.css\">\n\n</head>\n\n<body>\n\n<div class=\"container\">\n	\n	<!-- <button class=\"btn btn-primary\">Aceptar</button> <button class=\"btn btn-default\">Aceptar</button>\n	<br></br> -->\n\n	<!-- Fila 1-->\n	<div class=\"row\">\n\n		<!-- Contenedor 1-->\n		<div class=\"contenedorAcordeon\">			\n\n			<!-- Acordeon 1 -->\n			<div id=\"myAccorddion1\" class=\"<jq></jq>ui-widget widgetAccordion col-md-3\">\n				<h3>Cómputo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna XYZ.\n				</div>\n\n				<h3>Inglés</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n\n				<h3>Estilismo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n			</div>\n\n		</div><!--/Contenedor 1-->\n\n		<!-- Contenedor 2-->\n		<div class=\"contenedorAcordeon\">			\n\n			<!-- Acordeon 2 -->\n			<div id=\"myAccorddion2\" class=\"jqui-widget widgetAccordion col-md-3\">\n				<h3>Cómputo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.\n				</div>\n\n				<h3>Inglés</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n\n				<h3>Estilismo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n			</div>\n\n		</div><!--/Contenedor 2-->		\n	\n	</div><!--/Fila 1-->\n\n	<!-- Fila 2 -->\n	<div class=\"row\">\n\n		<div class=\"panel panel-primary col-md-3\">\n		  <div class=\"panel-heading\">Panel heading without title</div>\n		  <div class=\"panel-body\">\n			Panel content\n		  </div>\n		</div>\n\n		<div class=\"panel panel-default col-md-3\">\n		  <div class=\"panel-heading\">\n			<h3 class=\"panel-title\">Panel title</h3>\n		  </div>\n		  <div class=\"panel-body\">\n			Panel content\n		  </div>\n		</div>\n\n	</div><!--Fila 2-->\n\n</div><!--/Container-->\n	\n\n	\n<!-- *************************** J S *************************** -->\n	<!-- jQuery -->\n	<script src=\"jquery/jquery-1.11.1.min.js\"></script>\n	<!-- jQuery UI-->\n	<script src=\"jquery/jquery-ui/js/jquery-ui.js\"></script>\n\n	<!-- Bootstrap -->\n	<script src=\"bootstrap/js/bootstrap.min.js\"></script>\n	\n	<!-- Configuraciones de Widgets -->\n	<script src=\"js/widgets.config.js\"></script>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 5058,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation';",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); ",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/jqui"
+	],
+	"file_history":
+	[
+		"/C/Users/José Luis/Desktop/jquery-ui/js/widgets.config.js",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/José Luis/Desktop/jquery-ui/css/main.css",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+		"/C/Users/José Luis/Desktop/jquery-ui/css/widgets.styles.css",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/js/jquery-ui.min.js",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.css",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/js/jquery-ui.js",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
+		"/C/xampp/htdocs/Dreamw/jQueryAssets/temas/humanity/jquery-ui.structure.css",
+		"/C/xampp/htdocs/master2/index.html",
+		"/C/xampp/htdocs/master/index.html",
+		"/C/xampp/htdocs/cetec1/js/misScript.js",
+		"/C/Users/José Luis/Desktop/video.html",
+		"/C/xampp/htdocs/cetec1/index.html",
+		"/C/Users/José Luis/Desktop/.htaccess",
+		"/C/Users/José Luis/Downloads/Teamtreehouse.com - How to Make a Website/01 - Beginning HTML and CSS/index.html",
+		"/C/Users/José Luis/Videos/Any Video Converter/HTML5/2.5.1_RIAs_x264.html",
+		"/C/Users/José Luis/Desktop/index.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/ejercicio7.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio7_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/css/ejercicio7.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/css/ejercicio7_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio5/ejercicio5.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/ejercicio6.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio6_Sol.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio5_Sol.css",
+		"/C/Users/José Luis/Desktop/Ejercicios/Resueltos/Resuelto2.html",
+		"/C/Users/José Luis/Desktop/Ejercicios/Ejercicio2.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/Lorem_ipsum.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/ejercicio3.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio3_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio4_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivosEjercicio4/pagina_completa.html",
+		"/C/Users/José Luis/Desktop/Ejercicios/Resueltos/Resuelto3.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/pagina_completa_estilos.css",
+		"/C/Users/José Luis/Desktop/Ejercicios/Ejercicio3.html",
+		"/C/Users/José Luis/Desktop/Ejecicio12.html",
+		"/C/Users/José Luis/Desktop/Ejercicio2.html",
+		"/C/Users/José Luis/Desktop/Ejecicio1.html",
+		"/C/xampp/htdocs/enc_Puebla_Estilismo_Docen_T2/sql/enc_Puebla_Ingles_Docen_T2.sql",
+		"/C/xampp/htdocs/enc_Puebla_Ingles_Docen_T2/sql/enc_Puebla_Compu_Docen_T2.sql",
+		"/C/xampp/htdocs/jqupload/js/jQUpLoad_8_8_1/jquery.blueimp-gallery.min.js",
+		"/C/Users/José Luis/Desktop/ejemplo.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"Suspendido",
+			"suspendido",
+			"83",
+			"60",
+			"Compu",
+			"map",
+			".map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ingles"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jqui.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\José Luis\\Desktop\\jquery-ui\\jquery-ui\\jquery-ui.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
