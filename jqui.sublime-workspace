@@ -36,13 +36,26 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"utf-8\">\n<title>Título</title>\n<!-- *************************** B A S I C S *************************** -->\n	<meta charset=\"utf-8\">\n	<meta name=\"author\" content=\"JLRZ\">\n	<meta name=\"description\" content=\"Plantilla para sistema asíncrono\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n\n<!-- *************************** C S S *************************** -->\n	<!-- Bootstrap -->\n	<link rel=\"stylesheet\" href=\"bootstrap/css/bootstrap.min.css\">\n	<!-- Bottom fixed footer bar -->\n	<link rel=\"stylesheet\" href=\"css/sticky-footer-navbar.css\">\n\n	<!-- Estilos jQuery UI -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.min.css\">\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.structure.min.css\">\n	<!-- Estilos del Tema -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.min.css\">\n\n	<!-- Estilos de Widgets -->\n	<link rel=\"stylesheet\" href=\"css/widgets.styles.css\">\n\n	<!-- Estilos Generales -->\n	<link rel=\"stylesheet\" href=\"css/main.css\">\n\n</head>\n\n<body>\n\n<div class=\"container\">\n	\n	<!-- <button class=\"btn btn-primary\">Aceptar</button> <button class=\"btn btn-default\">Aceptar</button>\n	<br></br> -->\n\n	<!-- Fila 1-->\n	<div class=\"row\">\n\n		<!-- Contenedor 1-->\n		<div class=\"contenedorAcordeon\">			\n\n			<!-- Acordeon 1 -->\n			<div id=\"myAccorddion1\" class=\"<jq></jq>ui-widget widgetAccordion col-md-3\">\n				<h3>Cómputo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna XYZ.\n				</div>\n\n				<h3>Inglés</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n\n				<h3>Estilismo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n			</div>\n\n		</div><!--/Contenedor 1-->\n\n		<!-- Contenedor 2-->\n		<div class=\"contenedorAcordeon\">			\n\n			<!-- Acordeon 2 -->\n			<div id=\"myAccorddion2\" class=\"jqui-widget widgetAccordion col-md-3\">\n				<h3>Cómputo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.\n				</div>\n\n				<h3>Inglés</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n\n				<h3>Estilismo</h3>\n				<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minus perferendis recusandae, aut odit minima. Velit nisi, sunt cum amet, omnis consequatur voluptatibus placeat dolorem labore dolores expedita minima sapiente.</div>\n			</div>\n\n		</div><!--/Contenedor 2-->		\n	\n	</div><!--/Fila 1-->\n\n	<!-- Fila 2 -->\n	<div class=\"row\">\n\n		<div class=\"panel panel-primary col-md-3\">\n		  <div class=\"panel-heading\">Panel heading without title</div>\n		  <div class=\"panel-body\">\n			Panel content\n		  </div>\n		</div>\n\n		<div class=\"panel panel-default col-md-3\">\n		  <div class=\"panel-heading\">\n			<h3 class=\"panel-title\">Panel title</h3>\n		  </div>\n		  <div class=\"panel-body\">\n			Panel content\n		  </div>\n		</div>\n\n	</div><!--Fila 2-->\n\n</div><!--/Container-->\n	\n\n	\n<!-- *************************** J S *************************** -->\n	<!-- jQuery -->\n	<script src=\"jquery/jquery-1.11.1.min.js\"></script>\n	<!-- jQuery UI-->\n	<script src=\"jquery/jquery-ui/js/jquery-ui.js\"></script>\n\n	<!-- Bootstrap -->\n	<script src=\"bootstrap/js/bootstrap.min.js\"></script>\n	\n	<!-- Configuraciones de Widgets -->\n	<script src=\"js/widgets.config.js\"></script>\n</body>\n</html>\n",
 			"file": "index.html",
-			"file_size": -1,
-			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 5058,
+				"buffer_size": 5087,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index-copia.html",
+			"settings":
+			{
+				"buffer_size": 3760,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
+			"settings":
+			{
+				"buffer_size": 36556,
 				"line_ending": "Unix"
 			}
 		}
@@ -99,6 +112,7 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/dist/css/flat-ui.css",
 		"/C/Users/José Luis/Desktop/jquery-ui/js/widgets.config.js",
 		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/José Luis/Desktop/jquery-ui/css/main.css",
@@ -147,7 +161,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -161,6 +175,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1ABC9C",
 			"font",
 			"Suspendido",
 			"suspendido",
@@ -176,6 +191,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"3498DB",
 			"Ingles"
 		],
 		"reverse": false,
@@ -187,7 +203,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -196,15 +212,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5058,
+						"buffer_size": 5087,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								5058
+								4404,
+								4404
 							]
 						],
 						"settings":
@@ -213,7 +229,66 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 741.0,
+						"translation.y": 1978.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index-copia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2879,
+								2879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2898,
+								2898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -224,7 +299,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -260,7 +335,7 @@
 	"project": "jqui.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 88.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -298,7 +373,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 244.0,
 	"status_bar_visible": true,
 	"template_settings":
