@@ -4,11 +4,9 @@
 }
 
 body{
-	margin-top: -60px;
+	/*margin-top: -60px;*/
+	/*background: rgb(245, 245, 245);*/
+	background: #f6f6f6;
 }
 
 /**************************************************************************/
-.contenido{
-	background: #ecf0f1;
-	xpadding: 15px;
-}

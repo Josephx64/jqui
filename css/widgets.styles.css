@@ -1,3 +1,54 @@
+/************** N A V B A R **************/
+/* Ajustes de alineación de navbar a la izquierda en dispositivos muy pequeños y a la derecha en medianos y grandes*/
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+/*@media (min-width: @screen-sm-min) {
+	.navbar-nav {
+		float: left;
+		margin: 0;
+	}
+}*/
+
+/* Medium devices (tablets, 760px and up) */
+@media (max-width: 768px) {
+	.navbar-nav {
+		float: left;
+		margin: 0;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	.navbar-nav {
+		float: right;
+		margin: 0;
+	}
+}
+
+
+/************** N A V B A R **************/
+nav.navbar{
+	background: #3498db;
+}
+
+#nvbrPrincipal >ul >li >a{
+	color: white;
+}
+
+#nvbrPrincipal >ul >li >a:hover{
+	color: #2980b9;
+}
+
+.navbar-default .navbar-nav>.active>a{
+	background: #2980b9;
+}
+
+.navbar-default .navbar-nav>.active>a:focus{
+
+}
+
 /************** A C C O R D I O N S **************/
 .contenedorAcordeon{
 	height:350px;
@@ -9,11 +60,6 @@
 	/*ajustes de tema para los acordeones*/
 }
 
-.XXX{
-	background-color: silver;
-	height: 35px;
-}
-
 
 /************** P A N E L S **************/
 
@@ -21,5 +67,32 @@
 
 .panel{
 	padding-right: 0;
+	padding-left: 0;
+}
+
+.colContenido, .articulo{
+	background: #ffffff;
+	padding: 15px 15px;
+	border-radius: 4px;
+	border: 1px solid #E8E8E6;
+	padding-bottom: 12px;
+}
+
+.articulo > img{
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.articulo > h5{
+	font-family: 'open sans', 'Helvetica Neue';
+	font-weight: bold;
+	color: #555;
+}
+
+.articulo > a{
+	font-family: 'open sans', 'Helvetica Neue';
+	font-size: 0.95em;
+	font-weight: bold;
 	padding-left: 0;
 }

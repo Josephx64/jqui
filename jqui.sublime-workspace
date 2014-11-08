@@ -44,19 +44,22 @@
 			}
 		},
 		{
-			"file": "index-copia.html",
+			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"utf-8\">\n<title>Título</title>\n\n<!-- *************************** B A S I C S *************************** -->\n	<meta charset=\"utf-8\">\n	<meta name=\"author\" content=\"JLRZ\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n	<meta name=\"description\" content=\"Plantilla para sistema asíncrono\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n\n<!-- *************************** C S S *************************** -->\n	<!-- Bootstrap -->\n	<link rel=\"stylesheet\" href=\"bootstrap/css/bootstrap.min.css\">\n	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n	<!--[if lt IE 9]>\n		<script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n		<script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n	<![endif]-->\n	<!-- Bottom fixed footer bar -->\n	<link rel=\"stylesheet\" href=\"css/sticky-footer-navbar.css\">\n\n	<!-- Estilos jQuery UI -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.min.css\">\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.structure.min.css\">\n	<!-- Estilos del Tema -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.min.css\">\n\n	<!-- Estilos de Widgets -->\n	<link rel=\"stylesheet\" href=\"css/widgets.styles.css\">\n\n	<!-- Estilos Generales -->\n	<link rel=\"stylesheet\" href=\"css/main.css\">\n	<link rel=\"stylesheet\" href=\"http://getbootstrap.com/examples/justified-nav/justified-nav.css\">\n\n</head>\n\n<body>\n\n<div class=\"container\">\n\n	<div class=\"masthead\">\n		<h3 class=\"text-muted\">Project name</h3>\n		<ul class=\"nav nav-justified\">\n			<li class=\"active\"><a href=\"#\">Home</a></li>\n			<li><a href=\"#\">Projects</a></li>\n			<li><a href=\"#\">Services</a></li>\n			<li><a href=\"#\">Downloads</a></li>\n			<li><a href=\"#\">About</a></li>\n			<li><a href=\"#\">Contact</a></li>\n		</ul>\n	</div>\n\n	<!-- Jumbotron -->\n	<div class=\"jumbotron\">\n		<h1>Marketing stuff!</h1>\n		<p class=\"lead\">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>\n		<p><a class=\"btn btn-lg btn-success\" href=\"#\" role=\"button\">Get started today</a></p>\n	</div>\n\n	<!-- Example row of columns -->\n	<div class=\"row\">\n		<!-- Contenido1 -->\n		<div class=\"col-md-4 col-lg-4\">\n			<div class=\"contenido\">\n				<h2>Safari bug warning!</h2>\n				<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n				<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n				<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n			</div>\n\n			<!-- Contenido2 -->\n			<div class=\"col-md-4 col-lg-4\">\n				<div class=\"contenido\">\n					<h2>Safari bug warning!</h2>\n					<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n					<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n				</div>\n\n			<!-- Contenido3 -->\n			<div class=\"col-md-4 col-lg-4\">\n				<div class=\"contenido\">\n					<h2>Safari bug warning!</h2>\n					<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n					<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n				</div>\n\n		</div>\n		\n	</div><!--/row-->\n\n	<!-- Site footer -->\n	<div class=\"footer\">\n		<p>&copy; Company 2014</p>\n	</div>\n\n</div> <!-- /container -->\n	\n	\n<!-- *************************** J S *************************** -->\n	<!-- jQuery -->\n	<script src=\"jquery/jquery-1.11.1.min.js\"></script>\n	<!-- jQuery UI-->\n	<script src=\"jquery/jquery-ui/js/jquery-ui.js\"></script>\n\n	<!-- Bootstrap -->\n	<script src=\"bootstrap/js/bootstrap.min.js\"></script>\n	\n	<!-- Configuraciones de Widgets -->\n	<script src=\"js/widgets.config.js\"></script>\n</body>\n</html>\n",
+			"file": "test.html",
+			"file_size": 4660,
+			"file_write_time": 130598522008137946,
 			"settings":
 			{
-				"buffer_size": 3760,
+				"buffer_size": 4904,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 36556,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -66,6 +69,10 @@
 		"height": 400.0,
 		"selected_items":
 		[
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -83,7 +90,7 @@
 				"Package Control: Add Repository"
 			]
 		],
-		"width": 520.0
+		"width": 424.0
 	},
 	"console":
 	{
@@ -112,6 +119,8 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/jqui/index-copia.html",
+		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
 		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/dist/css/flat-ui.css",
 		"/C/Users/José Luis/Desktop/jquery-ui/js/widgets.config.js",
 		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -203,7 +212,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -219,8 +228,8 @@
 						"selection":
 						[
 							[
-								4404,
-								4404
+								1178,
+								1178
 							]
 						],
 						"settings":
@@ -229,27 +238,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1978.0,
+						"translation.y": 2460.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index-copia.html",
+					"file": "test.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3760,
+						"buffer_size": 4904,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2879,
-								2879
+								1564,
+								1564
 							]
 						],
 						"settings":
@@ -258,7 +267,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1339.0,
+						"translation.y": 2100.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -266,32 +275,32 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36556,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2898,
-								2898
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"auto_name": "",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1254.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -353,7 +362,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\José Luis\\Desktop\\jquery-ui\\jquery-ui\\jquery-ui.sublime-workspace"
+				"C:\\xampp\\htdocs\\bs3\\B3.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -373,7 +382,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 244.0,
 	"status_bar_visible": true,
 	"template_settings":
