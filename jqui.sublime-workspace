@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"bac",
+				"background"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
 				"font",
-				"font-size"
+				"font-weight"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"padding-",
+				"padding-right"
 			],
 			[
 				"he",
@@ -20,10 +48,6 @@
 				"trainOperational"
 			],
 			[
-				"bac",
-				"background-image"
-			],
-			[
 				"rgb",
 				"rgb()"
 			],
@@ -36,49 +60,58 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "practica1.html",
 			"settings":
 			{
-				"buffer_size": 5087,
+				"buffer_size": 13001,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/widgets.styles.css",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sticky-footer-navbar.css",
+			"settings":
+			{
+				"buffer_size": 980,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"utf-8\">\n<title>Título</title>\n\n<!-- *************************** B A S I C S *************************** -->\n	<meta charset=\"utf-8\">\n	<meta name=\"author\" content=\"JLRZ\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n	<meta name=\"description\" content=\"Plantilla para sistema asíncrono\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n\n<!-- *************************** C S S *************************** -->\n	<!-- Bootstrap -->\n	<link rel=\"stylesheet\" href=\"bootstrap/css/bootstrap.min.css\">\n	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n	<!--[if lt IE 9]>\n		<script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n		<script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n	<![endif]-->\n	<!-- Bottom fixed footer bar -->\n	<link rel=\"stylesheet\" href=\"css/sticky-footer-navbar.css\">\n\n	<!-- Estilos jQuery UI -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.min.css\">\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/jquery-ui.structure.min.css\">\n	<!-- Estilos del Tema -->\n	<link rel=\"stylesheet\" href=\"jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.min.css\">\n\n	<!-- Estilos de Widgets -->\n	<link rel=\"stylesheet\" href=\"css/widgets.styles.css\">\n\n	<!-- Estilos Generales -->\n	<link rel=\"stylesheet\" href=\"css/main.css\">\n	<link rel=\"stylesheet\" href=\"http://getbootstrap.com/examples/justified-nav/justified-nav.css\">\n\n</head>\n\n<body>\n\n<div class=\"container\">\n\n	<div class=\"masthead\">\n		<h3 class=\"text-muted\">Project name</h3>\n		<ul class=\"nav nav-justified\">\n			<li class=\"active\"><a href=\"#\">Home</a></li>\n			<li><a href=\"#\">Projects</a></li>\n			<li><a href=\"#\">Services</a></li>\n			<li><a href=\"#\">Downloads</a></li>\n			<li><a href=\"#\">About</a></li>\n			<li><a href=\"#\">Contact</a></li>\n		</ul>\n	</div>\n\n	<!-- Jumbotron -->\n	<div class=\"jumbotron\">\n		<h1>Marketing stuff!</h1>\n		<p class=\"lead\">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>\n		<p><a class=\"btn btn-lg btn-success\" href=\"#\" role=\"button\">Get started today</a></p>\n	</div>\n\n	<!-- Example row of columns -->\n	<div class=\"row\">\n		<!-- Contenido1 -->\n		<div class=\"col-md-4 col-lg-4\">\n			<div class=\"contenido\">\n				<h2>Safari bug warning!</h2>\n				<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n				<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n				<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n			</div>\n\n			<!-- Contenido2 -->\n			<div class=\"col-md-4 col-lg-4\">\n				<div class=\"contenido\">\n					<h2>Safari bug warning!</h2>\n					<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n					<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n				</div>\n\n			<!-- Contenido3 -->\n			<div class=\"col-md-4 col-lg-4\">\n				<div class=\"contenido\">\n					<h2>Safari bug warning!</h2>\n					<p class=\"text-danger\">As of v7.0.1, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>\n					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>\n					<p><a class=\"btn btn-primary\" href=\"#\" role=\"button\">View details &raquo;</a></p>\n				</div>\n\n		</div>\n		\n	</div><!--/row-->\n\n	<!-- Site footer -->\n	<div class=\"footer\">\n		<p>&copy; Company 2014</p>\n	</div>\n\n</div> <!-- /container -->\n	\n	\n<!-- *************************** J S *************************** -->\n	<!-- jQuery -->\n	<script src=\"jquery/jquery-1.11.1.min.js\"></script>\n	<!-- jQuery UI-->\n	<script src=\"jquery/jquery-ui/js/jquery-ui.js\"></script>\n\n	<!-- Bootstrap -->\n	<script src=\"bootstrap/js/bootstrap.min.js\"></script>\n	\n	<!-- Configuraciones de Widgets -->\n	<script src=\"js/widgets.config.js\"></script>\n</body>\n</html>\n",
-			"file": "test.html",
-			"file_size": 4660,
-			"file_write_time": 130598522008137946,
-			"settings":
-			{
-				"buffer_size": 4904,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 230.0,
 		"selected_items":
 		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"Snippet: ",
 				"Snippet: html5"
 			],
 			[
 				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -90,7 +123,7 @@
 				"Package Control: Add Repository"
 			]
 		],
-		"width": 424.0
+		"width": 432.0
 	},
 	"console":
 	{
@@ -115,10 +148,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/jqui"
+		"/C/xampp/htdocs/jqui",
+		"/C/xampp/htdocs/jqui/css",
+		"/C/xampp/htdocs/jqui/img"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/jqui/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/jqui/bootstrap/css/metro-bootstrap.css",
+		"/C/xampp/htdocs/jqui/css/main.css",
+		"/C/xampp/htdocs/jqui/css/widgets.styles.css",
+		"/C/xampp/htdocs/jqui/practica1.html",
+		"/C/xampp/htdocs/jqui/bootstrap/css/bootstrap.css.map",
+		"/C/xampp/htdocs/jqui/index.html",
+		"/C/xampp/htdocs/jqui/test.html",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/sb3.sublime-snippet",
 		"/C/xampp/htdocs/jqui/index-copia.html",
 		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
 		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/dist/css/flat-ui.css",
@@ -170,7 +214,7 @@
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -212,24 +256,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "practica1.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5087,
+						"buffer_size": 13001,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1178,
-								1178
+								10493,
+								10493
 							]
 						],
 						"settings":
@@ -238,69 +282,97 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2460.0,
+						"translation.y": 5281.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "test.html",
+					"file": "css/widgets.styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4904,
+						"buffer_size": 1743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1564,
-								1564
+								828,
+								828
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2100.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
+					"file": "css/sticky-footer-navbar.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 980,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								833,
+								833
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 594.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -383,7 +455,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
