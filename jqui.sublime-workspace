@@ -4,8 +4,41 @@
 		"selected_items":
 		[
 			[
+<<<<<<< HEAD
 				"font-s",
 				"font-size"
+=======
+				"bac",
+				"background"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"padding-",
+				"padding-right"
+>>>>>>> origin
 			],
 			[
 				"fot",
@@ -52,12 +85,17 @@
 				"mysqli_fetch"
 			],
 			[
+<<<<<<< HEAD
 				"mysql_fetch_",
 				"mysql_fetch_object"
 			],
 			[
 				"php",
 				"phpinfo"
+=======
+				"rgb",
+				"rgb()"
+>>>>>>> origin
 			],
 			[
 				"calif",
@@ -76,6 +114,7 @@
 	"buffers":
 	[
 		{
+<<<<<<< HEAD
 			"file": "index.html",
 			"settings":
 			{
@@ -88,6 +127,36 @@
 			"settings":
 			{
 				"buffer_size": 4493,
+=======
+			"file": "practica1.html",
+			"settings":
+			{
+				"buffer_size": 13001,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/widgets.styles.css",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sticky-footer-navbar.css",
+			"settings":
+			{
+				"buffer_size": 980,
+>>>>>>> origin
 				"line_ending": "Unix"
 			}
 		}
@@ -95,6 +164,7 @@
 	"build_system": "",
 	"command_palette":
 	{
+<<<<<<< HEAD
 		"height": 43.0,
 		"selected_items":
 		[
@@ -105,13 +175,33 @@
 			[
 				"install",
 				"Package Control: Install Package"
+=======
+		"height": 230.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+>>>>>>> origin
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
+<<<<<<< HEAD
 				"inst",
+=======
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+>>>>>>> origin
 				"Package Control: Install Package"
 			],
 			[
@@ -139,7 +229,11 @@
 				"SublimeBookmarks: Add Bookmark"
 			]
 		],
+<<<<<<< HEAD
 		"width": 601.0
+=======
+		"width": 432.0
+>>>>>>> origin
 	},
 	"console":
 	{
@@ -160,6 +254,7 @@
 	},
 	"expanded_folders":
 	[
+<<<<<<< HEAD
 		"/opt/lampp/htdocs/jqui"
 	],
 	"file_history":
@@ -239,10 +334,75 @@
 		"/home/jl/Escritorio/Bases/preguntas.sql",
 		"/home/jl/Escritorio/Bases/tabla_preguntas.sql",
 		"/home/jl/Escritorio/encuesta_adc_2t.sql"
+=======
+		"/C/xampp/htdocs/jqui",
+		"/C/xampp/htdocs/jqui/css",
+		"/C/xampp/htdocs/jqui/img"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/jqui/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/jqui/bootstrap/css/metro-bootstrap.css",
+		"/C/xampp/htdocs/jqui/css/main.css",
+		"/C/xampp/htdocs/jqui/css/widgets.styles.css",
+		"/C/xampp/htdocs/jqui/practica1.html",
+		"/C/xampp/htdocs/jqui/bootstrap/css/bootstrap.css.map",
+		"/C/xampp/htdocs/jqui/index.html",
+		"/C/xampp/htdocs/jqui/test.html",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/sb3.sublime-snippet",
+		"/C/xampp/htdocs/jqui/index-copia.html",
+		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/index.html",
+		"/C/xampp/htdocs/Flat-ui/Flat-UI-master/dist/css/flat-ui.css",
+		"/C/Users/José Luis/Desktop/jquery-ui/js/widgets.config.js",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/José Luis/Desktop/jquery-ui/css/main.css",
+		"/C/Users/José Luis/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+		"/C/Users/José Luis/Desktop/jquery-ui/css/widgets.styles.css",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/js/jquery-ui.min.js",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/css/temas/smoothness/jquery-ui.theme.css",
+		"/C/Users/José Luis/Desktop/jquery-ui/jquery/jquery-ui/js/jquery-ui.js",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
+		"/C/xampp/htdocs/Dreamw/jQueryAssets/temas/humanity/jquery-ui.structure.css",
+		"/C/xampp/htdocs/master2/index.html",
+		"/C/xampp/htdocs/master/index.html",
+		"/C/xampp/htdocs/cetec1/js/misScript.js",
+		"/C/Users/José Luis/Desktop/video.html",
+		"/C/xampp/htdocs/cetec1/index.html",
+		"/C/Users/José Luis/Desktop/.htaccess",
+		"/C/Users/José Luis/Downloads/Teamtreehouse.com - How to Make a Website/01 - Beginning HTML and CSS/index.html",
+		"/C/Users/José Luis/Videos/Any Video Converter/HTML5/2.5.1_RIAs_x264.html",
+		"/C/Users/José Luis/Desktop/index.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/ejercicio7.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio7_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/css/ejercicio7.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio7/css/ejercicio7_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivos_ejercicio5/ejercicio5.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/ejercicio6.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio6_Sol.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio5_Sol.css",
+		"/C/Users/José Luis/Desktop/Ejercicios/Resueltos/Resuelto2.html",
+		"/C/Users/José Luis/Desktop/Ejercicios/Ejercicio2.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/Lorem_ipsum.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/ejercicio3.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio3_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 17 - Ejercicios Resueltos/ejercicio4_Sol.css",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/archivosEjercicio4/pagina_completa.html",
+		"/C/Users/José Luis/Desktop/Ejercicios/Resueltos/Resuelto3.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum.html",
+		"/C/Users/José Luis/OneDrive/Plan de Estudios Tco en Desarrollo Web 2014/3 CSS/Material de Aprendizaje/Capítulo 16 - Ejercicios/Lorem_ipsum_files/pagina_completa_estilos.css",
+		"/C/Users/José Luis/Desktop/Ejercicios/Ejercicio3.html",
+		"/C/Users/José Luis/Desktop/Ejecicio12.html",
+		"/C/Users/José Luis/Desktop/Ejercicio2.html",
+		"/C/Users/José Luis/Desktop/Ejecicio1.html",
+		"/C/xampp/htdocs/enc_Puebla_Estilismo_Docen_T2/sql/enc_Puebla_Ingles_Docen_T2.sql",
+		"/C/xampp/htdocs/enc_Puebla_Ingles_Docen_T2/sql/enc_Puebla_Compu_Docen_T2.sql",
+		"/C/xampp/htdocs/jqupload/js/jQUpLoad_8_8_1/jquery.blueimp-gallery.min.js",
+		"/C/Users/José Luis/Desktop/ejemplo.html"
+>>>>>>> origin
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -256,6 +416,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+<<<<<<< HEAD
 			"#agregarUser",
 			"agregarUser",
 			"hide",
@@ -384,6 +545,17 @@
 			"$row_Vot_4pts_P2",
 			"$calif_Preg1",
 			"name=pregunta"
+=======
+			"1ABC9C",
+			"font",
+			"Suspendido",
+			"suspendido",
+			"83",
+			"60",
+			"Compu",
+			"map",
+			".map"
+>>>>>>> origin
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -391,6 +563,7 @@
 		"regex": false,
 		"replace_history":
 		[
+<<<<<<< HEAD
 			"3",
 			"5",
 			"4",
@@ -462,6 +635,10 @@
 			"P6",
 			"Preg6",
 			"P5"
+=======
+			"3498DB",
+			"Ingles"
+>>>>>>> origin
 		],
 		"reverse": false,
 		"show_context": true,
@@ -472,15 +649,20 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 1,
+=======
+			"selected": 3,
+>>>>>>> origin
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "practica1.html",
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< HEAD
 						"buffer_size": 5087,
 						"regions":
 						{
@@ -511,14 +693,22 @@
 					"settings":
 					{
 						"buffer_size": 4493,
+=======
+						"buffer_size": 13001,
+>>>>>>> origin
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								635,
 								635
+=======
+								10493,
+								10493
+>>>>>>> origin
 							]
 						],
 						"settings":
@@ -527,7 +717,98 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 0.0,
+=======
+						"translation.y": 5281.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/widgets.styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/sticky-footer-navbar.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								833,
+								833
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+>>>>>>> origin
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -538,7 +819,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -574,7 +855,7 @@
 	"project": "jqui.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 88.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -596,11 +877,15 @@
 		[
 			[
 				"",
+<<<<<<< HEAD
 				"/opt/lampp/htdocs/enc_Tejalpa_Compu_Docen_T2/enc_Tejalpa_Compu_Docen_T2.sublime-project"
 			],
 			[
 				"enc_",
 				"/opt/lampp/htdocs/enc_Tejalpa_Compu_Docen_T2/untitled.sublime-workspace"
+=======
+				"C:\\xampp\\htdocs\\bs3\\B3.sublime-project"
+>>>>>>> origin
 			]
 		],
 		"width": 380.0
@@ -621,7 +906,11 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
 	"side_bar_width": 253.0,
+=======
+	"side_bar_width": 238.0,
+>>>>>>> origin
 	"status_bar_visible": true,
 	"template_settings":
 	{
