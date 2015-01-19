@@ -95,7 +95,7 @@
 			"file": "practica1.html",
 			"settings":
 			{
-				"buffer_size": 13007,
+				"buffer_size": 12989,
 				"line_ending": "Unix"
 			}
 		}
@@ -547,15 +547,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13007,
+						"buffer_size": 12989,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11894,
-								11894
+								4677,
+								4677
 							]
 						],
 						"settings":
@@ -564,7 +564,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1653.0,
+						"translation.y": 2147.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -657,7 +657,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 253.0,
 	"status_bar_visible": true,
 	"template_settings":
